@@ -17,6 +17,8 @@ class CalculatorTest extends TestCase
         $calculator = new Calculator();
 
         // Test the add method
+
+        
         $this->assertEquals(5, $calculator->add(2, 3));
         $this->assertEquals(0, $calculator->add(-2, 2));
         $this->assertEquals(-5, $calculator->add(-3, -2));
