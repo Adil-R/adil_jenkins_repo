@@ -31,6 +31,3 @@ Route::get('/check_new_123', function () {
 Route::get('/check_new_123', function () {
     return view('welcome');
 });
-Route::get('/check_new_123', function () {
-    return view('welcome');
-});
