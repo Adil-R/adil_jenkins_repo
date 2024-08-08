@@ -22,7 +22,5 @@ Route::get('/check', function () {
 Route::get('/check_new', function () {
     return view('welcome');
 });
-Route::get('/check_new1', function () {
-    return view('welcome');
-});
+
 
