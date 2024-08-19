@@ -37,3 +37,6 @@ Route::get('/check_new_123', function () {
 Route::get('/sel_sort', function () {
   $arr = [];
 });
+Route::get('/sel_sort', function () {
+    $arr = [];
+  });
