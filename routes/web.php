@@ -40,3 +40,7 @@ Route::get('/sel_sort', function () {
 Route::get('/sel_sort', function () {
     $arr = [];
   });
+  Route::get('/sel_sort', function () {
+    $arr = [];
+  });
+
